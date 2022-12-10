@@ -12,11 +12,12 @@
 
 # 目录 ᕕ( ᐛ )ᕗ
 
-1. [技术写作的目的和益处](https://github.com/machanghan/technical-writing-Guide/blob/master/docs/技术写作的目的和益处.md)
-2. [了解技术写作以及流程](https://github.com/machanghan/technical-writing-Guide/blob/master/docs/了解技术写作以及流程.md)
-3. [技术写作技巧](https://github.com/machanghan/technical-writing-Guide/blob/master/docs/技术写作技巧.md)
-4. [技术写作规范](https://github.com/machanghan/technical-writing-Guide/blob/master/docs/技术写作规范.md)
-5. [附录](https://github.com/machanghan/Blog)
+1. [技术写作的目的和益处](https://github.com/machanghan/technical-writing-Guide/blob/master/技术写作的目的和益处.md)
+2. [了解技术写作以及流程](https://github.com/machanghan/technical-writing-Guide/blob/master/了解技术写作以及流程.md)
+3. [技术写作技巧](https://github.com/machanghan/technical-writing-Guide/blob/master/技术写作技巧.md)
+4. [技术写作规范](https://github.com/machanghan/technical-writing-Guide/blob/master/技术写作规范.md)
+5. [写作辅助工具及平台](https://github.com/machanghan/technical-writing-Guide/blob/master/写作辅助工具及平台.md)
+6. [附录](https://github.com/machanghan/Blog)
 ---
 
 # 前言
